@@ -1,3 +1,5 @@
+import sys
+
 from pipelines.training_pipeline import train_pipeline
 
 if __name__ == "__main__":
